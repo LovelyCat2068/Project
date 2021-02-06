@@ -1,0 +1,52 @@
+body{
+  background-color: linear-gradient:(#00d4ff 0% #097274 100%);
+  text-align: center;
+}
+
+span{
+  text-shadow: 2px 2px #2979FF; 
+  font-family: 'Potta One', sans-serif;
+}
+
+section{
+  padding: 100px;
+}
+img{
+  height: 200px;
+}
+
+line{
+  height: 100px;
+  color:black;
+  font-weight: bold;
+}
+
+#1{
+  font-weight: bolder;
+}
+
+.menu{
+  list-style: none;
+  float:right;
+  font-family:cursive;
+  top: 10px;
+  right: 30px;
+  cursor: pointer;
+  color: black;
+  position: fixed;
+   text-decoration: none;
+}
+
+.links:hover{
+  color:firebrick;
+}
+
+.links{
+  font-weight: bolder;
+  display: inline;
+  text-decoration: none;
+}
+
+img:hover{
+  transform: scale(0.9);
+}
